@@ -16,7 +16,7 @@ protection in data analytics, while adversarial machine learning is developed to
 
 <br/>
 
-<div style="text-align: justify"> Accepted research papers will be included in the ADMA 2026 proceedings.</div>
+<div style="text-align: justify"> Accepted research papers will be included in the ADMA2026 proceedings.</div>
 
 <br/>
 
