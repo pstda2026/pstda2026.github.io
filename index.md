@@ -14,8 +14,7 @@ permalink: /
 </p>
 
 <br/>
-
-Welcome to the ADMA2026 Special Session on Private, Secure, and Trustworthy Data Analytics (PSTDA2026). It is a special session of the 22nd IEEE International Conference on Data Science and Advanced Analytics ([ADMA2026](https://adma2026.github.io/)).
+<div style="text-align: justify"> Welcome to the ADMA2026 Special Session on Private, Secure, and Trustworthy Data Analytics (PSTDA2026). It is a special session of the 22nd International Conference on Advanced Data Mining and Applications ([ADMA2026](https://adma2026.github.io/)).</div> 
 
 <br/>
 
