@@ -5,7 +5,7 @@ permalink: /program/
 order: 1
 ---
 ### **Conference Program**
-ADMA2025 conference program can be found here.
+ADMA2026 conference program can be found here.
 
 <!-- **PSTDA2023 Special Session is TBD.** -->
 

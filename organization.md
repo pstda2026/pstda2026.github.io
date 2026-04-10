@@ -4,14 +4,15 @@ title: Organization
 permalink: /organization/
 ---
 ### **General Chairs**
-- Wenjie Zhang, University of New South Wales, Australia
-- Junhua Ding, University of North Texas, USA
-- Yongbin Zhou, Nanjing University of Science and Technology, China
+- Lina Yao, The University of New South Wales, Australia
+- Xiaolong Xu, Nanjing University of Information Science and Technology, China
+- Bowen Liu, Hong Kong University of Science and Technology, Hong Kong, China
+- Deepak Puthal, United Arab Emirates University, UAE
 
 ### **Program Committee Chairs**
-- Shuchao Pang, Nanjing University of Science and Technology, China
-- Yang Zhang, University of North Texas, USA
-- Amin Beheshti, Macquarie University, Australia
+- Haolong Xiang, Nanjing University of Science and Technology, China
+- Pengfei Ding, Macquarie University, Australia
+- Hao Miao, The Hong Kong Polytechnic University, Hong Kong, China
 
 <!-- ### **General Chairs**
 - Amin Beheshti, Macquarie University, Australia
@@ -30,8 +31,8 @@ permalink: /organization/
 - Adnan Mahmood, Macquarie University, Australia -->
 
 ### **Web Chairs**
-- Pengfei Ding, Macquarie University, Australia
-- Yuejun Liu, Nanjing University of Science and Technology, China
+- Yifan Zhu, Beijing University of Posts and Telecommunications, China
+- Qin Zhang, Shenzhen University, China
 
 <!-- |<font size=5>**General Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
@@ -59,51 +60,54 @@ permalink: /organization/
 
 
 ### **Technical Program Committee**
-- Lichao Sun, Lehigh University, USA
-- Chunjie Zhou, Ludong University, China
+- Junhua Ding, University of North Texas, USA
 - Dali Kaafar, Macquarie University, Australia
+- Qin Zhang, Shenzhen University, China
+- Zhengyang Zhou, University of Science and Technology of China, China
 - Giovanni Russello, University of Auckland, New Zealand
+- Fan Wang, Harvard University, USA
+- Jiaqiang Zhang, Nanjing University of Information Science and Technology, China
+- Yang Zhang, University of North Texas, USA
+- Xiaobao Wang, Tianjin University, China
 - Chao Chen, Swinburne University of Technology, Australia
 - Dieter Gollmann, Hamburg University of Technology, Germany
-- Dongseong Kim, University of Queensland, Australia
+- Shuchao Pang, Nanjing University of Science and Technology, China
 - Francesco Palmieri, University of Salerno, Italy
-- Gaofeng Zhang, Hefei University of Technology, China
 - Hadis Karimipour, University of Guelph, Canada
+- Xiaotong Wu, Hangzhou Normal University, China
+- Wei Fan, University of Auckland, New Zealand
 - Hao Wang, Norwegian University of Science and Technology, Norway
-- Haolong Xiang, Macquarie University, Australia
 - Hongsheng Hu, University of Auckland, New Zealand
+- Wenjie Zhang, University of New South Wales, Australia
+- Li Ni, Anhui University, China
 - Javier Parra-Arnau, Universitat Rovira i Virgili, Spain
 - Jinguang Han, Queen’s University Belfast, U.K.
-- Junwen Lu, Xiamen University of Technology, China
 - Kar-Ann Toh, Yonsei University, South Korea
 - Lam Kwok Yan, Nanyang Technological University, Singapore
-- Liangfu Lv, Tianjin University, China
-- Lingjuan Lyu, National University of Singapore, Singapore
 - Luigi Catuogno, University of Salerno, Italy
-- Lutful Karim, Seneca College of Applied Arts and Technology, Canada
+- Shucun Fu, Nanjing University of Information Science and Technology, China
+- Lingjuan Lyu, National University of Singapore, Singapore
 - Meng Liu, Shandong University, China
 - Mingzhong Wang, University of the Sunshine Coast, Australia
+- Hao tian, Nanjing University, China
+- Dawei Zhu, Southeast University, China
+- Xinyang Huang, Hong Kong University of Science and Technology, Hong Kong, China
 - Mohammed EI-Abd, American University of Kuwait, KW
 - Nathan Clarke, University of Plymouth, UK
 - Saeid Hosseini, Sohar University, Oman
 - Shunmei Meng, Nanjing University of Science and Technology, China
 - Silvio Barra, University of Salerno, Italy
-- Vincenzo Moscato, University of Naples, Italy
 - Weizhi Meng, Technical University of Denmark, Denmark
-- Wanli Huang, Qufu Normal University, China
-- Wenjuan Li, Hong Kong Polytechnic University, Hong Kong
+- Wenjuan Li, Hong Kong Polytechnic University, Hong Kong, China
 - Wenmin Lin, Hangzhou Normal University, China
-- Xiao Liu, Deakin University, Australia
 - Xiaochun Cheng, Middlesex University, U.K.
-- Xiaolong Xu, Nanjing University of Information Science and Technology,
-China
-- Xuan Zhao, Nanjing University, China
-- Yanwei Xu, Tianjin University, China
+- Kun Yi, State Information Center, China
 - Yifeng Zheng, CSIRO, Australia
 - Yirui Wu, Hohai University, China
 - Zhaoan Dong, Qufu Normal University, China
 - Zhiyuan Tan, Edinburgh Napier University, U.K.
+- Lei Shi, Communication University of China, China
 - Wenwen Gong, Tsinghua University, China
 - Yuwen Liu, China University of Petroleum (East China), China
-- Lingzhen Kong, Nanjing University of Science and Technology, China
-- Sifeng Wang, Qufu Normal University, China
+- Linkai Song, Hong Kong University of Science and Technology, Hong Kong, China
+- Yuanning Cui, Nanjing University of Information Science and Technology, China

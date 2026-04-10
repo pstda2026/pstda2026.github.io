@@ -4,9 +4,9 @@ title: Dates
 permalink: /dates/
 ---
 
-#### - **Submission deadline:**	*June 5, 2025* 
-#### - **Notification date:**	*July 27, 2025*
-#### - **Camera-ready due:**	*August 10, 2025*
-#### - **Event dates:**	*October 22 to 24, 2025*
+#### - **Submission deadline:**	*June 26, 2026* 
+#### - **Notification date:**	*August 21, 2026*
+#### - **Camera-ready due:**	*September 4, 2026*
+#### - **Event dates:**	*November 13 to 15, 2026*
 
 *Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.*

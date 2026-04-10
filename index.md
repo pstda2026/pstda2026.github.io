@@ -10,20 +10,23 @@ permalink: /
 ---
 <!-- ![banner image](shenzhen.jpeg) -->
 <p align="center">
-	<img src="figures/banner.jpg" width="750">
+	<img src="figures/banner.png" width="750">
 </p>
 
 <br/>
 
-Welcome to the ADMA2025 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2025). It is a special session of the 21st IEEE International Conference on Data Science and Advanced Analytics ([ADMA2025](https://adma2025.github.io/)).
+Welcome to the ADMA2026 Special Session on Private, Secure, and Trustworthy Data Analytics (PSTDA2026). It is a special session of the 22nd IEEE International Conference on Data Science and Advanced Analytics ([ADMA2026](https://adma2026.github.io/)).
 
 <br/>
 
-<div style="text-align: justify"> The fusion of scalable computing infrastructure, big data, and artificial intelligence has boosted the development and application of data science and advanced data analytics. However, the recently emerging threats on the privacy, security, and trust (PST) of the data and the analytics models have shown a dramatically increasing trend with the wide deployment of data analytics applications. </div> 
+<div style="text-align: justify"> The fusion of scalable computing infrastructure, big data, and artificial intelligence (including large language models and multi-agent systems) has boosted the development and application of data science and advanced data analytics.
+However, emerging threats to the private, secure, and trustworthy (PST) data and analytics models have risen dramatically with the widespread deployment of data analytics applications. </div> 
 
 <br/>
 
-<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc. This special session invites authors to submit original research work that demonstrate and explore current advances in all related areas mentioned above. High-quality accepted papers will be recommended to the associated journal special issues (see more details in <a href="https://pstda2025.github.io/cfp/">Call for Papers)</a>. </div>
+<div style="text-align: justify"> This special session mainly focuses on privacy, security, and trust challenges
+in data analytics, covering (but not limited to) the following topics: privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, large language model and multi-agent security, secure machine learning integrating cryptographic techniques, IoT data security, blockchain techniques
+for data and model PST protection, etc. This special session invites authors to submit original research work that demonstrates and explores cutting-edge advances across all the aforementioned related areas. High-quality accepted papers will be recommended to the associated journal special issues (see more details in <a href="https://pstda2026.github.io/cfp/">Call for Papers)</a>. </div>
 
 <br/>
 

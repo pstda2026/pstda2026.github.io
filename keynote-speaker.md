@@ -8,8 +8,6 @@ permalink: /Steering Committee/
 <!-- ## **Keynote Speakers** -->
 #### Xuyun Zhang, Macquarie University, Australia
 
-#### Guanfeng Liu, Macquarie University, Australia
-
 #### Lianyong Qi, China University of Petroleum, China
 
 <!-- | [**Prof. Tianqing Zhu**](https://profiles.uts.edu.au/Tianqing.Zhu) |
