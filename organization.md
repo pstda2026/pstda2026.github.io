@@ -6,7 +6,6 @@ permalink: /organization/
 ### **General Chairs**
 - Lina Yao, The University of New South Wales, Australia
 - Xiaolong Xu, Nanjing University of Information Science and Technology, China
-- Bowen Liu, Hong Kong University of Science and Technology, Hong Kong, China
 - Deepak Puthal, United Arab Emirates University, UAE
 
 ### **Program Committee Chairs**
@@ -77,6 +76,7 @@ permalink: /organization/
 - Xiaotong Wu, Hangzhou Normal University, China
 - Wei Fan, University of Auckland, New Zealand
 - Hao Wang, Norwegian University of Science and Technology, Norway
+- Bowen Liu, Hong Kong University of Science and Technology, Hong Kong, China
 - Hongsheng Hu, University of Auckland, New Zealand
 - Wenjie Zhang, University of New South Wales, Australia
 - Li Ni, Anhui University, China
