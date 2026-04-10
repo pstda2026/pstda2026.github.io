@@ -54,7 +54,7 @@ protection in data analytics, while adversarial machine learning is developed to
 **Formatting Guidelines:**
 1. <div style="text-align: justify"> The paper should be in English and contain unpublished contributions to data mining and related fields.</div>
 
-2. <div style="text-align: justify"> Manuscripts must be prepared in accordance with the LNAI (Lecture Notes in Artificial Intelligence) format. For the template and details on the LNCS style, see <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"> Springer's Author Instructions</div>
+2. <div style="text-align: justify"> Manuscripts must be prepared in accordance with the LNAI (Lecture Notes in Artificial Intelligence) format. For the template and details on the LNCS style, see <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">Springer's Author Instructions</div>
 
 3. <div style="text-align: justify">The paper should NOT exceed 15 pages in LNAI format.</div>
 
