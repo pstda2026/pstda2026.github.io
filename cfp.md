@@ -54,17 +54,17 @@ protection in data analytics, while adversarial machine learning is developed to
 **Formatting Guidelines:**
 1. <div style="text-align: justify"> The paper should be in English and contain unpublished contributions to data mining and related fields.</div>
 
-2. <div style="text-align: justify"> Manuscripts must be prepared in accordance with the LNAI (Lecture Notes in Artificial Intelligence) format. For the template and details on the LNCS style, see Springer's Author Instructions</div>
+2. <div style="text-align: justify"> Manuscripts must be prepared in accordance with the LNAI (Lecture Notes in Artificial Intelligence) format. For the template and details on the LNCS style, see [Springer's Author] Instructions(https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)</div>
 
 3. <div style="text-align: justify">The paper should NOT exceed 15 pages in LNAI format.</div>
 
 4. <div style="text-align: justify">Submissions are reviewed in a double-blind manner. i.e.</div>
 
-    <div style="text-align: justify"> a. Author identities and affiliations are not disclosed to reviewers during the review process.</div>
+    <div style="text-align: justify"> a.Author identities and affiliations are not disclosed to reviewers during the review process.</div>
 
-    <div style="text-align: justify"> b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div>
+    <div style="text-align: justify"> b.Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div>
 
-    <div style="text-align: justify"> c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div>
+    <div style="text-align: justify"> c.Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div>
 
 5. <div style="text-align: justify">The list of authors at the time of submission is final and cannot be changed.</div>
 
