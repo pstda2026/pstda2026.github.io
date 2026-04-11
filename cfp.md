@@ -62,11 +62,11 @@ protection in data analytics, while adversarial machine learning is developed to
 
     <ul style="list-style-type: lower-alpha; padding-left: 50px;">
         
-    <li><div style="text-align: justify"> Author identities and affiliations are not disclosed to reviewers during the review process.</div></li>
+    <li><div style="text-align: justify">a. Author identities and affiliations are not disclosed to reviewers during the review process.</div></li>
         
-    <li><div style="text-align: justify"> Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div></li>
+    <li><div style="text-align: justify">b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div></li>
     
-    <li><div style="text-align: justify"> Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div></li>
+    <li><div style="text-align: justify">c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div></li>
     </ul>
 
 5. <div style="text-align: justify">The list of authors at the time of submission is final and cannot be changed.</div>
