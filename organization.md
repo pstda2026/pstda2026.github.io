@@ -9,7 +9,7 @@ permalink: /organization/
 - Deepak Puthal, United Arab Emirates University, UAE
 
 ### **Program Committee Chairs**
-- Haolong Xiang, Nanjing University of Science and Technology, China
+- Haolong Xiang, Nanjing University of Information Science and Technology, China
 - Pengfei Ding, Macquarie University, Australia
 - Hao Miao, The Hong Kong Polytechnic University, Hong Kong, China
 
