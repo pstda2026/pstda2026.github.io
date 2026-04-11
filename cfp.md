@@ -60,11 +60,11 @@ protection in data analytics, while adversarial machine learning is developed to
 
 4. <div style="text-align: justify">Submissions are reviewed in a double-blind manner. i.e.</div>
         
-   a. Author identities and affiliations are not disclosed to reviewers during the review process.
+   <div style="text-align: justify">a. Author identities and affiliations are not disclosed to reviewers during the review process.</div>
         
-   b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.
+   <div style="text-align: justify">b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div>
     
-   c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.
+   <div style="text-align: justify">c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div>
 
 5. <div style="text-align: justify">The list of authors at the time of submission is final and cannot be changed.</div>
 
