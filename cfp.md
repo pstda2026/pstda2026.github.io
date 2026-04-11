@@ -59,15 +59,12 @@ protection in data analytics, while adversarial machine learning is developed to
 3. <div style="text-align: justify">The paper should NOT exceed 15 pages in LNAI format.</div>
 
 4. <div style="text-align: justify">Submissions are reviewed in a double-blind manner. i.e.</div>
-
-    <ul style="list-style: none; padding-left: 0;">
         
-    <li><div style="text-align: justify">a. Author identities and affiliations are not disclosed to reviewers during the review process.</div></li>
+   a. Author identities and affiliations are not disclosed to reviewers during the review process.
         
-    <li><div style="text-align: justify">b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.</div></li>
+   b. Authors should prepare and submit suitably blinded manuscripts that do not reveal author and affiliation information. Specific requirements are detailed below.
     
-    <li><div style="text-align: justify">c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.</div></li>
-    </ul>
+   c. Authors and reviewers alike make an honest effort to avoid accidentally de-blinding any submission.
 
 5. <div style="text-align: justify">The list of authors at the time of submission is final and cannot be changed.</div>
 
