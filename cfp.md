@@ -60,7 +60,7 @@ protection in data analytics, while adversarial machine learning is developed to
 
 4. <div style="text-align: justify">Submissions are reviewed in a double-blind manner. i.e.</div>
 
-    <ul style="list-style: lower-alpha; padding-left: 50px">
+    <ul style="list-style-type: lower-alpha; padding-left: 50px;">
         
     <li><div style="text-align: justify"> Author identities and affiliations are not disclosed to reviewers during the review process.</div></li>
         
